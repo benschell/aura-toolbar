@@ -5,7 +5,7 @@
   "description": "A handy toolbar and keyboard shortcuts for jumping amongst Aura component files.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/aura-toolbar",
+  "repository": "https://github.com/benschell/aura-toolbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
