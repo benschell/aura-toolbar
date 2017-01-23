@@ -1,0 +1,10 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-a": "aura-toolbar:open-markup",
+    "ctrl-alt-s": "aura-toolbar:open-css",
+    "ctrl-alt-z": "aura-toolbar:open-controller",
+    "ctrl-alt-x": "aura-toolbar:open-helper",
+    "ctrl-alt-c": "aura-toolbar:open-renderer",
+    "ctrl-alt-v": "aura-toolbar:open-test"
+  }
+}

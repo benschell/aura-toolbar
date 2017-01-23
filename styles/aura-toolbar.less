@@ -1,0 +1,28 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.aura-footer-view {
+  .tab {
+    display: none;
+    margin-right: -1px;
+    padding: 0 .6em;
+    line-height: 1.8em;
+    color: rgba(157, 165, 180, 0.6);
+    border: 1px solid #181a1f;
+    background: rgba(53, 59, 69, 0.33);
+    cursor: pointer;
+    vertical-align: middle;
+    position: relative;
+    
+    &.shown {
+      display: inline-block;
+    }
+    &.active {
+      color: #d7dae0;
+      background: #353b45;
+    }
+  }
+}

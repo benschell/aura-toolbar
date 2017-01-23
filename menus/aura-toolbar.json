@@ -1,0 +1,46 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle aura-toolbar",
+        "command": "aura-toolbar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "aura-toolbar",
+          "submenu": [
+            {
+              "label": "Open markup",
+              "command": "aura-toolbar:open-markup"
+            },
+            {
+              "label": "Open css",
+              "command": "aura-toolbar:open-css"
+            },
+            {
+              "label": "Open Controller",
+              "command": "aura-toolbar:open-controller"
+            },
+            {
+              "label": "Open Helper",
+              "command": "aura-toolbar:open-helper"
+            },
+            {
+              "label": "Open Renderer",
+              "command": "aura-toolbar:open-renderer"
+            },
+            {
+              "label": "Open Test",
+              "command": "aura-toolbar:open-test"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

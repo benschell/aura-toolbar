@@ -1,0 +1,15 @@
+{
+  "name": "aura-toolbar",
+  "main": "./lib/aura-toolbar",
+  "version": "0.0.0",
+  "description": "A handy toolbar and keyboard shortcuts for jumping amongst Aura component files.",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/aura-toolbar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
