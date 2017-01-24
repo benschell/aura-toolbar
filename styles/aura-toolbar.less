@@ -5,6 +5,11 @@
 @import "ui-variables";
 
 .aura-footer-view {
+
+  .label {
+    margin: 0 10px;
+  }
+  
   .tab {
     display: none;
     margin-right: -1px;
@@ -17,6 +22,9 @@
     vertical-align: middle;
     position: relative;
     
+    &:hover {
+      text-decoration: none;
+    }
     &.shown {
       display: inline-block;
     }
