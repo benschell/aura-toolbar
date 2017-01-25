@@ -6,7 +6,7 @@ A handy toolbar and keyboard shortcuts for jumping amongst Aura component files.
 
 Use the toolbar to easily jump from one component file to another!
 
-![Aura Toolbar Example](/doc/aura-toolbar.png)
+![Aura Toolbar Example](https://raw.githubusercontent.com/benschell/aura-toolbar/master/doc/aura-toolbar.png)
 
 Each file will open in it's own tab and behave in Atom as expected; the toolbar simply makes for easy navigation without relying on the tree view.
 
@@ -14,7 +14,7 @@ Each file will open in it's own tab and behave in Atom as expected; the toolbar 
 
 Use Ctrl-Alt-&lt;letter&gt; to easily jump from one component file to another:
 
-![Keyboard Shortcuts](/doc/aura-toolbar-shortcuts.jpg)
+![Keyboard Shortcuts](https://raw.githubusercontent.com/benschell/aura-toolbar/master/doc/aura-toolbar-shortcuts.jpg)
 
 File Type                       | Shortcut
 --------------------------------|---------
