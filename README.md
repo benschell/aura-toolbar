@@ -2,4 +2,27 @@
 
 A handy toolbar and keyboard shortcuts for jumping amongst Aura component files.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Toolbar
+
+Use the toolbar to easily jump from one component file to another!
+
+![Aura Toolbar Example](/readme/aura-toolbar.png)
+
+Each file will open in it's own tab and behave in Atom as expected; the toolbar simply makes for easy navigation without relying on the tree view.
+
+## Keyboard Shortcuts
+
+Use Ctrl-Alt-&lt;letter&gt; to easily jump from one component file to another:
+
+![Keyboard Shortcuts](/readme/aura-toolbar-shortcuts.jpg)
+
+File Type                       | Shortcut
+--------------------------------|---------
+Markup (.cmp, .app, .evt, .lib) | Ctrl-Alt-a
+CSS                             | Ctrl-Alt-s
+Controller (.js)                | Ctrl-Alt-z
+Helper (.js)                    | Ctrl-Alt-x
+Renderer (.js)                  | Ctrl-Alt-c
+Test (.js)                      | Ctrl-Alt-v
+
+Shortcuts for files that don't exist will simply be ignored.
