@@ -1,7 +1,7 @@
 {
   "name": "aura-toolbar",
   "main": "./lib/aura-toolbar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A handy toolbar and keyboard shortcuts for jumping amongst Aura component files.",
   "keywords": [],
   "repository": "https://github.com/benschell/aura-toolbar",
